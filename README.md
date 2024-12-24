@@ -8,6 +8,7 @@ Python
 ETL process on SQL Server
 
 •	Creation of Database, Table and View
+
 •	Data Cleaning and Data Processing
 
 
