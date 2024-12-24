@@ -1,4 +1,4 @@
-# Churn-Analysis
+# Churn_Analysis using ML
 
 SQL |
 PowerBI |
