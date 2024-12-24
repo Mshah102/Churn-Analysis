@@ -28,7 +28,7 @@ Python
    •	Data Preparation, Processing, Model Building and Evaluation, Prediction
 
 
-5. Power BI – Churn Summary
+5. Power BI – Churn Prediction
 
    •	Churner Profile and Customers at Risk
    
