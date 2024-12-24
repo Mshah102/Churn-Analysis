@@ -1,5 +1,8 @@
 # Churn-Analysis
 
-SQL
-PowerBI
+SQL |
+PowerBI |
 Python
+
+
+
