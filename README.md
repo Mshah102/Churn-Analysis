@@ -7,15 +7,15 @@ Python
 
 1. ETL process on SQL Server
 
-•	Creation of Database, Table and View
+    •	Creation of Database, Table and View
 
-•	Data Cleaning and Data Processing
+    •	Data Cleaning and Data Processing
 
 
 
 2. Power BI – Churn Summary
 
-•	Data Transformation, Custom Measures, Visualizations
+    •	Data Transformation, Custom Measures, Visualizations
 
 
 
@@ -25,10 +25,10 @@ Python
 4. Machine Learning Model – Random Forest
 
 
-•	Data Preparation, Processing, Model Building and Evaluation, Prediction
+   •	Data Preparation, Processing, Model Building and Evaluation, Prediction
 
 
 5. Power BI – Churn Summary
 
-•	Churner Profile and Customers at Risk
+   •	Churner Profile and Customers at Risk
 
