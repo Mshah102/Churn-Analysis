@@ -5,7 +5,7 @@ PowerBI |
 Python
 
 
-ETL process on SQL Server
+1. ETL process on SQL Server
 
 •	Creation of Database, Table and View
 
@@ -13,22 +13,22 @@ ETL process on SQL Server
 
 
 
-Power BI – Churn Summary
+2. Power BI – Churn Summary
 
 •	Data Transformation, Custom Measures, Visualizations
 
 
 
-Data Analysis based on Visualization
+3. Data Analysis based on Visualization
 
 
-Machine Learning Model – Random Forest
+4. Machine Learning Model – Random Forest
 
 
 •	Data Preparation, Processing, Model Building and Evaluation, Prediction
 
 
-Power BI – Churn Summary
+5. Power BI – Churn Summary
 
 •	Churner Profile and Customers at Risk
 
