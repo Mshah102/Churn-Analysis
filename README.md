@@ -22,7 +22,7 @@ Python
 3. Data Analysis based on Visualization
 
 
-4. Machine Learning Model – Random Forest
+4. Machine Learning Model – Random Forest Algorithm
 
 
    •	Data Preparation, Processing, Model Building and Evaluation, Prediction
